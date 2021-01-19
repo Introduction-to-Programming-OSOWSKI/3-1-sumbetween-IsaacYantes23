@@ -1,4 +1,4 @@
-def sumBetween(x,y):
+def sumBetween(x, y):
 
     total = 0
 
@@ -7,4 +7,3 @@ def sumBetween(x,y):
 
     return total
 
-print(sumBetween(5,7))
